@@ -27,6 +27,7 @@ function Header() {
   const links = [
     { to: "/", label: "Home", icon: <HomeIcon /> },
     { to: "/About", label: "About" },
+    {to: "/careers", label: "Careers"},
     { to: "/Contact", label: "Contact" },
   ];
 

@@ -7,7 +7,7 @@ import Slide2 from "../assets/slide 2.jpg";
 import Slide3 from "../assets/slide3.jpg";
 import Slide4 from "../assets/slide4.jpg";
 import Slide5 from "../assets/slide5.jpg";
-import Pradeep from "../assets/Pradeep.png"
+// import Pradeep from "../assets/Pradeep.png"
 import { Box, Typography, Grid, Container, Button } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 
@@ -307,7 +307,7 @@ function HomePage() {
       </Box>
 
       {/* Team Section */}
-      <Box sx={{ marginTop: "3rem", marginBottom: "3rem" }}>
+      {/* <Box sx={{ marginTop: "3rem", marginBottom: "3rem" }}>
         <Typography
           variant="h5"
           sx={{
@@ -362,7 +362,7 @@ function HomePage() {
                 }}
               />
               <Typography variant="h6" sx={{ fontWeight: "bold" }}>
-                Pradeep Reddy
+                  Team Member 
               </Typography>
               <Typography variant="body2" sx={{ color: "text.secondary" }}>
                 Ops Manager
@@ -394,7 +394,7 @@ function HomePage() {
             </Box>
           </Grid>
         </Grid>
-      </Box>
+      </Box> */}
 
       {/* Call-to-Action Section */}
       <Box
