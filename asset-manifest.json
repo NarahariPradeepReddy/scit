@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/scit/static/css/main.c508f7e8.css",
-    "main.js": "/scit/static/js/main.529f5d75.js",
-    "static/js/651.10347d30.chunk.js": "/scit/static/js/651.10347d30.chunk.js",
-    "static/media/Pradeep.png": "/scit/static/media/Pradeep.84b509694ed384fd93a1.png",
-    "static/media/slide5.jpg": "/scit/static/media/slide5.83b37b93c6620a0d43aa.jpg",
-    "static/media/slide 1.jpg": "/scit/static/media/slide 1.eae3c0c2c6ccfe9bb21c.jpg",
-    "static/media/slide4.jpg": "/scit/static/media/slide4.d876467245598edc9dee.jpg",
-    "static/media/slide3.jpg": "/scit/static/media/slide3.d06d6114827e375ee294.jpg",
-    "static/media/SCITlogo.png": "/scit/static/media/SCITlogo.419027538e2ae37e2020.png",
-    "static/media/slide 2.jpg": "/scit/static/media/slide 2.c755298418751682d88d.jpg",
-    "static/media/slick.svg": "/scit/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/scit/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/scit/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/scit/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/scit/index.html",
-    "main.c508f7e8.css.map": "/scit/static/css/main.c508f7e8.css.map",
-    "main.529f5d75.js.map": "/scit/static/js/main.529f5d75.js.map",
-    "651.10347d30.chunk.js.map": "/scit/static/js/651.10347d30.chunk.js.map"
+    "main.css": "/static/css/main.ec4751af.css",
+    "main.js": "/static/js/main.f3d60d8a.js",
+    "static/js/651.10347d30.chunk.js": "/static/js/651.10347d30.chunk.js",
+    "static/media/slide5.jpg": "/static/media/slide5.83b37b93c6620a0d43aa.jpg",
+    "static/media/slide 1.jpg": "/static/media/slide 1.eae3c0c2c6ccfe9bb21c.jpg",
+    "static/media/slide4.jpg": "/static/media/slide4.d876467245598edc9dee.jpg",
+    "static/media/slide3.jpg": "/static/media/slide3.d06d6114827e375ee294.jpg",
+    "static/media/SCITlogo.png": "/static/media/SCITlogo.419027538e2ae37e2020.png",
+    "static/media/slide 2.jpg": "/static/media/slide 2.c755298418751682d88d.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.ec4751af.css.map": "/static/css/main.ec4751af.css.map",
+    "main.f3d60d8a.js.map": "/static/js/main.f3d60d8a.js.map",
+    "651.10347d30.chunk.js.map": "/static/js/651.10347d30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c508f7e8.css",
-    "static/js/main.529f5d75.js"
+    "static/css/main.ec4751af.css",
+    "static/js/main.f3d60d8a.js"
   ]
 }
