@@ -104,7 +104,7 @@ export default function CareersPage() {
       </Grid>
 
       {/* Job Listings */}
-      <div style={{ marginTop: "60px" }}>
+      {/* <div style={{ marginTop: "60px" }}>
         <Typography variant="h4" gutterBottom>
           Open Positions
         </Typography>
@@ -126,7 +126,7 @@ export default function CareersPage() {
             </Grid>
           ))}
         </Grid>
-      </div>
+      </div> */}
 
       {/* Job Detail Modal */}
       <Dialog

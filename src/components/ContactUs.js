@@ -170,15 +170,15 @@ function ContactUs() {
           variant="body2"
           sx={{ color: "text.secondary", marginTop: 2 }}
         >
-          Alternatively, contact us at <strong>support@yourdomain.com</strong>{" "}
-          or call us at <strong>+123-456-7890</strong>.
+          Alternatively, contact us at <strong>hr@omscit.com</strong>{" "}
+          {/* or call us at <strong>+91 7386441520</strong>. */}
           </Typography>
           <Typography
           variant="body2"
           sx={{ color: "text.secondary", marginTop: 2 }}
         >
           <em>
-            Our working hours are Monday to Friday, 9 AM to 6 PM (EST). We aim
+            Our working hours are Monday to Friday, 9 AM to 8 PM (IST). We aim
             to respond within 24 hours.
           </em>
         </Typography>
